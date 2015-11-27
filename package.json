@@ -1,0 +1,19 @@
+{
+  "name": "victory-polar",
+  "version": "0.0.1",
+  "description": "polar coordinate chart component for victory",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boygirl/victory-polar.git"
+  },
+  "author": "Lauren Eastridge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boygirl/victory-polar/issues"
+  },
+  "homepage": "https://github.com/boygirl/victory-polar",
+  "scripts": {
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
